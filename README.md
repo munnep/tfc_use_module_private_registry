@@ -65,7 +65,7 @@ module "petname-private" {
 ![](media/20230411161047.png)  
 ![](media/20230411161111.png)  
 ![](media/20230411161125.png)  
-- Start a new run 
+- Start a new run    
 ![](media/20230411161623.png)  
 - We should see the output
 ![](media/20230411161659.png)  
